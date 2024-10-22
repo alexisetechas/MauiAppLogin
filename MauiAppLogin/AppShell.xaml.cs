@@ -6,5 +6,5 @@
         {
             InitializeComponent();
         }
-    }
+    } // Fim classe AppShell
 }
